@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @amerkj
-- 👀 I’m interested in software and history As a Computer Engineer, I have a good background on the whole process of making a 
-software solution, from planning to Analysis  
-- 🌱 I’m currently learning vue.js 
-- 💞️ I’m looking to collaborate on ...
+-As a computer and system engineer, I have  3 years experience in the whole 
+process of making a software solutions, from planning to Analysis, I have 
+well experience in web development spanning across  front-end, back-end  and 
+Blockchain development.
 - 📫 How to reach me on discord amerkhadamaljamy#5502
 
 <!---
